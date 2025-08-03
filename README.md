@@ -27,19 +27,10 @@ Each question is solved using SQL queries and validated with output screenshots.
 
 ## 📁 Project Structure
 
-Chinook_SQL_Analysis/
-│
-├── SQL_Queries/ # 💻 Contains 12 SQL query files
-│ ├── 01_.sql
-│ ├── 02_.sql
-│ └── ...
-│
-├── Screenshots/ # 📸 Output screenshots for each query
-│ ├── 01_.png
-│ ├── 02_.png
-│ └── ...
-│
-└── README.md # 📘 Project documentation
+Chinook-SQL-Analysis/
+├── queries/ # Contains 12 SQL query files (01.sql to 12.sql)
+├── output_screenshots/ # Output screenshots corresponding to each query
+└── README.md # Project documentation
 
 ## 🛠️ Tools & Technologies
 
