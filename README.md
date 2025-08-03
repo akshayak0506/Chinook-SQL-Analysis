@@ -28,10 +28,10 @@ Each question is solved using SQL queries and validated with output screenshots.
 12. Monthly retention rate of customers  
 
 ---
-
+md
 ## 📁 Project Structure
 
-```text
+
 Chinook-SQL-Analysis/
 ├── queries/              # Contains 12 SQL query files (01.sql to 12.sql)
 ├── output_screenshots/   # Output screenshots corresponding to each query
