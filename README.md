@@ -41,9 +41,6 @@ Chinook_SQL_Analysis/
 │
 └── README.md # 📘 Project documentation
 
-
-
-
 ## 🛠️ Tools & Technologies
 
 - PostgreSQL 16
