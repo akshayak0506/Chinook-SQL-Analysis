@@ -25,12 +25,7 @@ Each question is solved using SQL queries and validated with output screenshots.
 11. Top 10 customers by number of tracks purchased and genres explored  
 12. Monthly retention rate of customers
 
-## 📁 Project Structure
-
-```textChinook-SQL-Analysis/
-├── queries/              # Contains 12 SQL query files (01.sql to 12.sql)
-├── output_screenshots/   # Output screenshots corresponding to each query
-└── README.md             # Project documentation```
+ ## 📁 Project Structure ```text Chinook-SQL-Analysis/ ├── queries/ # Contains 12 SQL query files (01.sql to 12.sql) ├── output_screenshots/ # Output screenshots corresponding to each query └── README.md # Project documentation ``` 
 
 
 ## 🛠️ Tools & Technologies
