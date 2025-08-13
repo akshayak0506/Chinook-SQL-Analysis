@@ -25,24 +25,6 @@ Each question is solved using SQL queries and validated with output screenshots.
 
 ---
 
-## 📁 Project Structure
-
-Chinook_SQL_Analysis/
-│
-├── SQL_Queries/ # Contains 12 query files
-│ ├── 01_.sql
-│ ├── 02_.sql
-│ └── ...
-│
-├── Screenshots/ # Contains output screenshots
-│ ├── 01_.png
-│ ├── 02_.png
-│ └── ...
-│
-└── README.md
-
----
-
 ## 🛠️ Tools & Technologies
 
 - PostgreSQL 16
